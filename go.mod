@@ -1,4 +1,4 @@
-module github.com/mailru/go-clickhouse
+module github.com/khlystov/go-clickhouse
 
 require (
 	github.com/gofrs/uuid v3.2.0+incompatible
